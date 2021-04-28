@@ -1,5 +1,7 @@
 # myCampus
 
+![GitHub last commit](https://img.shields.io/github/last-commit/thehackermonk/myCampus) ![GitHub issues](https://img.shields.io/github/issues/thehackermonk/myCampus) ![GitHub language count](https://img.shields.io/github/languages/count/thehackermonk/myCampus) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thehackermonk/myCampus)  ![GitHub](https://img.shields.io/github/license/thehackermonk/myCampus) ![Twitter Follow](https://img.shields.io/twitter/follow/thehackermonk?style=social)
+
 myCampus is an ***interactive college web portal*** which acts as a communication medium between students and faculties in a college. The web site can be used for exchanging messages, submit assignments, notify everyone about upcoming events, etc.
 
 There is no such existing system. The students and faculties talk to each other when they meet. Assignments are submitted in the college. Internal exam dates, external exam dates, marks or details about any other events are put on the college notice board.
