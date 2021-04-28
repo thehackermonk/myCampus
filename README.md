@@ -1,6 +1,6 @@
 # myCampus
 
-![GitHub last commit](https://img.shields.io/github/last-commit/thehackermonk/myCampus) ![GitHub issues](https://img.shields.io/github/issues/thehackermonk/myCampus) ![GitHub language count](https://img.shields.io/github/languages/count/thehackermonk/myCampus) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thehackermonk/myCampus)  ![GitHub](https://img.shields.io/github/license/thehackermonk/myCampus) ![Twitter Follow](https://img.shields.io/twitter/follow/thehackermonk?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/thehackermonk/myCampus?style=flat-square) ![GitHub](https://img.shields.io/github/license/thehackermonk/myCampus?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/thehackermonk/myCampus?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/thehackermonk/myCampus?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/thehackermonk/myCampus?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/thehackermonk/myCampus?style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/thehackermonk?style=social)
 
 myCampus is an ***interactive college web portal*** which acts as a communication medium between students and faculties in a college. The web site can be used for exchanging messages, submit assignments, notify everyone about upcoming events, etc.
 
