@@ -8,11 +8,11 @@ There is no such existing system. The students and faculties talk to each other 
 
 The proposed system takes all these things into one place. Only authenticated users are allowed to use the system and the principal or head of the department should approve all users to access the system.
 
-### Technologies used for building this system are:
+### Technologies used
 Front End: *php - CodeIgniter*
 Back End: *mySQL*
 
-### Users
+### Types of users
 1. Principal
 	* Approves user account creation.
 	* Add updates about college level events and comment on them.
