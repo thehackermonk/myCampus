@@ -1,0 +1,234 @@
+body {
+	background-color: #cce6f4; /* Azurish White */
+}
+
+.mainPage_navLink {
+	margin: 12px 0;
+	a {
+		color: #eee;
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 18px;
+	}
+}
+
+.mainPage_navLink a {
+	position: relative;
+	color: #eee;
+	font-size: 18px;
+	padding: 10px;
+}
+
+.mainPage_navLink a:hover {
+	color: white;
+}
+
+.mainPage_navLink a:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	bottom: 0;
+	left: 0;
+	background-color: #333;
+	visibility: hidden;
+	transform: scaleX(0);
+	-webkit-transform: scaleX(0);
+	-moz-transform: scaleX(0);
+	transition: all 0.3s ease-in-out 0s;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;
+}
+
+.mainPage_navLink a:hover:before {
+	visibility: visible;
+	background-color: #f2f2f2;
+	transform: scaleX(1);
+	-webkit-transform: scaleX(1);
+	-moz-transform: scaleX(1);
+}
+
+.mainPage_card {
+	background-color: black;1
+}
+
+.mainPage_title {
+	font-family: Great Vibes;
+	font-size: 55px;
+	padding-top: 17px;
+	padding-left: 20px;
+	color: white;
+}
+
+.navbar-title {
+	font-family: Great Vibes;
+	font-size: 100px;
+	color: white;
+}
+
+.navbar-brand:hover {
+	animation: tada 1s;
+	-webkit-animation: tada 1s;
+	-moz-animation: tada 1s;
+}
+
+.pre-brandName {
+	color: #16db20;
+}
+
+.mainPage_moto {
+	color: white;
+	letter-spacing: 10px;
+	text-align: center;
+	animation: fadeIn 10s;
+	-webkit-animation: fadeIn 10s;
+	-moz-animation: fadeIn 10s;
+}
+
+.navbar .dropdown-menu a:hover {
+	background-color: #000 !important;
+}
+
+.genicon {
+	font-size: 23px;
+	padding-right: 20px;
+}
+
+.genicon-female {
+	color: #ff69b4; /* Hot Pink */
+}
+
+.genicon-male {
+	color: #00f; /* Blue */
+}
+
+.adrs_box, .status_box, .add_description {
+	height: 100px;
+	resize: none;
+}
+
+.upload_warn {
+	color: #f00; /* Red */
+	font-size: 14px;
+}
+
+.uploadBtn {
+	font-family: FontAwesome, 'Helvetica';
+}
+
+.napprove_text {
+	font-size: 25px;
+}
+
+.fgtPassLink {
+	font-size: 13px;
+}
+
+.navbar-icon {
+	font-size: 20px;
+	color: #9bc2cf; /* Pale Cerulean */
+	text-align: center;
+	padding: 5px 10px;
+	transition: all .3s ease;
+	-webkit-transition: all .3s ease;
+}
+
+.navbar-icon:hover {
+	font-size: 24px;
+	color: #000; /* Black */
+	border-radius: 10px;
+	background-color: #e1f5fe; /* Light Cyan */
+}
+
+.navbar-uname {
+	font-size: 18px;
+	color: #fff; /* White */
+	padding-top: 15px;
+	padding-left: 10px;
+}
+
+.blogid {
+	display: none;
+}
+
+.blogname {
+	color: #000; /* Black */
+	font-weight: bold;
+}
+
+.blogtime {
+	font-size: 12px;
+}
+
+.blogpost {
+	color: #000; /* Black */
+	padding-left: 4em; /* 1 tab space */
+}
+
+.rmpostBtn, .commentBtn, .sendBtn {
+	font-family: FontAwesome, 'Helvetica';
+}
+
+.postOpen-blog {
+	height: 250px;
+	width: relative;
+	resize: none;
+	font-size: 22px;
+}
+
+#scrollTop {
+	display: none;
+	font-size: 25px;
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	z-index: 99;
+	border: none;
+	outline: none;
+	background-color: #6666ff;
+	color: white;
+	padding: 5px 13px;
+	border-radius: 90px;
+}
+
+#scrollTop:hover {
+	background-color: #0d47a1; /* Yale Blue */
+	font-size: 27px;
+}
+
+.onlineDot {
+	color: #00c851;
+}
+
+.msgOpenBody {
+	height: 225px;
+	width: relative;
+	resize: none;
+	font-size: 18px;
+}
+
+.head_404 {
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 225px;
+	color: #fff; /* White */
+	-webkit-text-stroke: 3px black;
+	
+}
+
+.text_404 {
+	text-transform: uppercase;
+	color: #fff; /* White */
+	letter-spacing: 5px;
+}
+
+.about-text {
+	color: white;
+	font-weight: 100;
+}
+
+.about-moto {
+	font-size: 22px;
+	font-weight: thin;
+	color: white;
+	letter-spacing: 10px;
+}
